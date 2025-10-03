@@ -58,3 +58,6 @@ Uses TF-IDF vectorization (unigrams + bigrams)
 Logistic Regression predicts ticket category
 -Response Generation:
 Randomly selects a response from predefined category responses
+## **Command Window Output**
+<img width="591" height="343" alt="image" src="https://github.com/user-attachments/assets/0346aa32-2157-42f5-a7b7-8cef603980d2" />
+
