@@ -41,7 +41,7 @@ The AI model should be able to classify **new tickets** into these categories au
 
 ## **Requirements**
 
-- Python 3.8+
+- Python 
 - Libraries:
 
 bash
